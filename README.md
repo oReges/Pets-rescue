@@ -34,3 +34,5 @@ Este projeto foi desenvolvido como parte de uma atividade da disciplina de **Pro
 ## Autor
 
 Projeto desenvolvido para fins acadêmicos.
+
+<img width="1919" height="1049" alt="image" src="https://github.com/user-attachments/assets/c8c0d0cf-bc23-4a53-884f-2637e9c49306" />
